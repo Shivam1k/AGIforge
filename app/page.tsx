@@ -96,7 +96,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-3xl font-bold text-white mb-6">
-              Ready to Join the AGIverse Community?
+              Ready to Join the AGIforge Community?
             </h2>
             <p className="text-indigo-100 text-lg max-w-2xl mx-auto mb-8">
               Connect your wallet and start contributing to the decentralized AI ecosystem today.
